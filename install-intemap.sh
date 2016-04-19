@@ -15,6 +15,8 @@ export INSTALL_PATH
 # install idba-ud
 ./install-idba-ud.sh
 
+# install cabog
+./install-cabog.sh
 
 
 # Including $INSTALL_PATH dirs in $PATH
