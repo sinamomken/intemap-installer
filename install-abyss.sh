@@ -16,7 +16,7 @@ tar -xzvf abyss-*.tar.gz
 cd abyss-*
 
 # Compile & install commands according to README.md
-./configure --prefix=/opt/bioinformatics/abyss --with-mpi=/usr/lib/openmpi
+./configure --prefix=$INSTALL_PATH/abyss --with-mpi=/usr/lib/openmpi
 make
 sudo make install
 

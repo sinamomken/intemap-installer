@@ -21,6 +21,9 @@ export INSTALL_PATH
 # install abyss
 ./install-abyss.sh
 
+# install quake
+./install-quake.sh
+
 
 # Including $INSTALL_PATH dirs in $PATH
 
