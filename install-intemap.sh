@@ -18,6 +18,9 @@ export INSTALL_PATH
 # install cabog
 ./install-cabog.sh
 
+# install abyss
+./install-abyss.sh
+
 
 # Including $INSTALL_PATH dirs in $PATH
 

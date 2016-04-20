@@ -15,7 +15,7 @@ if [ ! -d $INSTALL_PATH/idba ]; then
 fi
 
 # Copy every file in 'bin' to idba folder in destination
-sudo cp -r bin/* $INSTALL_PATH/idba
+sudo cp -r bin $INSTALL_PATH/idba
 
 # Back to parent dir
 cd ..
