@@ -16,7 +16,7 @@ sudo make install
 cd ..
 
 ## 2- Install Quake itself:
-# Presumes source file "abyss-1.9.0.tar.gz" is present next to this script
+# Presumes source file "quake-0.3.5.tar.gz" is present next to this script
 
 # Prerequisites of Quake
 # boost

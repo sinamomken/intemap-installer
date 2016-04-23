@@ -24,6 +24,12 @@ export INSTALL_PATH
 # install quake
 ./install-quake.sh
 
+# install mummer
+./install-mummer.sh
+
+# install bowtie2
+./install-bowtie2.sh
+
 
 # Including $INSTALL_PATH dirs in $PATH
 
